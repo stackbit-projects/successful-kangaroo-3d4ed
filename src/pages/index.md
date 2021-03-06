@@ -74,14 +74,12 @@ sections:
           *   Success and ROI Metric Development 
       - title: Tactical Execution
         image: images/service-2.svg
-        content: |-
-          - Brand development
-          - Naming
-          - Brand identity
-          - Design systems
-          - Concept development
-          - Brand implementation and management
-          - Typography
+        content: |
+          *   Model Development
+          *   Data Management and Engineering
+          *   Best Practice and Scalability Tutoring
+          *   Hands-on Buildout 
+          *   Review and Quality Assurance 
       - title: Measurement
         image: images/service-3.svg
         content: |
