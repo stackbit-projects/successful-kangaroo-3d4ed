@@ -47,6 +47,8 @@ sections:
         image_alt: Logo 2
         title: Vacasa
         subtitle: Helping make sense of the physical word.
+        content: |
+          Strategic Roadmap, Data Engineering, Pipeline Development
       - image: images/logo-3.svg
         image_alt: Logo 3
       - image: images/logo-4.svg
