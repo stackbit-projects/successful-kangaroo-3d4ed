@@ -100,7 +100,7 @@ sections:
       expertise.
     col_number: three
     grid_items:
-      - title: lorem-ipsum
+      - title: Effective and Cost Approriate
         subtitle: lorem-ipsum
         image_alt: lorem-ipsum
         content: >-
