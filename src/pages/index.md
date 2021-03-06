@@ -167,6 +167,9 @@ sections:
           companies fail when attempting machine learning.
         actions: []
         type: grid_item
+        subtitle: >-
+          Implementing high quality data products requires extensive forethought
+          and a dilligent attention to detail. 
     type: grid_section
 template: advanced
 ---
