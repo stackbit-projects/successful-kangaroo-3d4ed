@@ -35,7 +35,7 @@ sections:
     view_all_url: portfolio
   - type: grid_section
     section_id: clients
-    title: Clients
+    title: Our Work
     subtitle: >-
       A few examples of the work we've done. From lay of the land to
       full-service assembly.
