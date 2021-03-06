@@ -178,7 +178,7 @@ sections:
           know-how to keep your systems accurate as markets evolve. 
         actions: []
         type: grid_item
-      - title: lorem-ipsum
+      - title: Data Quality and Scalability
         subtitle: lorem-ipsum
         image_alt: lorem-ipsum
         content: >-
