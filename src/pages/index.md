@@ -47,6 +47,7 @@ sections:
           Roadmap, Model Development, Maintenance
       - image: images/vacasa.png
         image_alt: Logo 2
+        title: Vacasa
       - image: images/logo-3.svg
         image_alt: Logo 3
       - image: images/logo-4.svg
