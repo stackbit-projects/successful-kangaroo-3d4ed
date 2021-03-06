@@ -103,17 +103,22 @@ sections:
       - title: Effective and Cost Approriate
         subtitle: lorem-ipsum
         image_alt: lorem-ipsum
-        content: >-
-          ## Lorem ipsum
+        content: >
+          > Many very large companies are expending tremendous capital rushing
+          into Data Science and Machine Learning with little more than a vague
+          notion of how to use it.
 
 
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+          > We say, "Let them waste their time and money."
 
 
-          - Lorem ipsum
+          We will take the time to understand your business, your customers and
+          your data to identify the projects are apt for machine learning and
+          those that aren't.
 
-          - dolor sit amet
+
+          We have the experience to know what is worth pursuing, what is not and
+          when getting 1% more accurate will cost 200% more effort.
         actions: []
         type: grid_item
     type: grid_section
