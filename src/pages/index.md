@@ -61,6 +61,7 @@ sections:
       - image: images/magpie.jpg
         image_alt: Logo 5
         title: Magpie (aquired by TCGplayer)
+        subtitle: 'Predicting '
   - type: grid_section
     section_id: services
     title: Services
