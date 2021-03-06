@@ -99,28 +99,7 @@ sections:
       Mastering data products and AI requires a balance of prioritization and
       expertise.
     col_number: three
-    grid_items:
-      - title: Effective and Cost Approriate
-        subtitle: Throwing money at a problem won't solve it.
-        image_alt: lorem-ipsum
-        content: >
-          > Many very large companies are expending tremendous capital rushing
-          into Data Science and Machine Learning with little more than a vague
-          notion of how to use it.
-
-
-          > We say, "Let them waste their time and money."
-
-
-          We will take the time to understand your business, your customers and
-          your data to identify the projects are apt for machine learning and
-          those that aren't.
-
-
-          We have the experience to know what is worth pursuing, what is not and
-          when getting 1% more accurate will cost 200% more effort.
-        actions: []
-        type: grid_item
+    grid_items: []
     type: grid_section
 template: advanced
 ---
