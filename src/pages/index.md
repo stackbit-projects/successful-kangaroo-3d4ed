@@ -95,7 +95,7 @@ sections:
     bg_color: light
   - section_id: lorem-ipsum
     title: Getting Sh*T Done
-    subtitle: Mastering data products and AI requires a balance of p
+    subtitle: 'Mastering data products and AI requires a balance of prioritization and '
     col_number: three
     grid_items: []
     type: grid_section
