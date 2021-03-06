@@ -43,6 +43,8 @@ sections:
         image: images/parallel-lavender.png
         title: Xmata
         subtitle: Bringing emotional understanding from AI text analysis
+        content: |
+          Strategic Roadmap, Model Development, Maintenance
       - image: images/vacasa.png
         image_alt: Logo 2
         title: Vacasa
