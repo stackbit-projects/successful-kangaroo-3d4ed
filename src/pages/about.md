@@ -2,29 +2,6 @@
 title: About TBD Labs
 hide_title: true
 sections:
-  - type: hero_section
-    section_id: hero
-    title: Why TBD Labs
-    content: >
-      Like it or not, you are competing with Google and Amazon.
-
-
-      Aware or not, among the biggest risks looming for your business is a lack
-      of access to technology.
-
-
-      Salaries are up. Available talent is down.
-
-
-      Over the next 10 years, the gap between the companies who can execute on
-      machine learning and those who cannot will widen. Those with the hard
-      skills to create and build will be *ever more rarified* and expensive.
-
-
-      TBD Labs helps your product and engineering team bridge this gap. From
-      hands-on development to mentorship, we are here to provide your business
-      with the data tools necessary to compete (realistically) with the
-      mega-corporations hiring engineers by the dozens, if not 100s!
   - type: grid_section
     section_id: clients
     title: Our Work
