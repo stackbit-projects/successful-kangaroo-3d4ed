@@ -58,10 +58,6 @@ sections:
         image_alt: billup logo
         title: billups
         subtitle: Scaling location data for meaningful understanding
-      - image: images/magpie.jpg
-        image_alt: magpie logo
-        title: Magpie (aquired by TCGplayer)
-        subtitle: Predicting price changes for secondary market collectibles
   - type: grid_section
     section_id: services
     title: Services
