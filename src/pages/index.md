@@ -161,12 +161,10 @@ sections:
       - title: Specification Design
         image_alt: lorem-ipsum
         content: >
-          Implementing high quality data products requires extensive forethought
-          and a dilligent attention to detail. As engineers and product
-          managers, we have the experience to produce a specification for your
-          team that is actionable and attainable. We understand cadence and
-          project sequencing -- two critical areas many companies fail when
-          attemping machine learning.
+          As engineers and product managers, we have the experience to produce a
+          specification for your team that is actionable and attainable. We
+          understand cadence and project sequencing -- two critical areas many
+          companies fail when attempting machine learning.
         actions: []
         type: grid_item
     type: grid_section
