@@ -36,7 +36,9 @@ sections:
       - image_alt: Logo 1
         image: images/parallel-lavender.png
         title: Xmata
-        subtitle: Bringing emotional understanding from AI text analysis
+        subtitle: >-
+          Bringing emotional understanding from text and images using AI and
+          visual reporting
         content: |
           ***Services***: Strategic Roadmap, Model Development, Maintenance
       - image: images/vacasa.png
