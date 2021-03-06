@@ -82,15 +82,13 @@ sections:
           *   Review and Quality Assurance 
       - title: Measurement
         image: images/service-3.svg
-        content: |
-          *   Digital product design
-          *   Service design
-          *   Environmental and retail design
-          *   Packaging design
-          *   Art direction
-          *   Communication design
-          *   Social media
-          *   Product design
+        content: |+
+          *   Return on Investment (***in dollars and cents***)
+          *   Model Maintence and Efficacy Verification
+          *   Data Inegrity Audits 
+
+
+
   - type: cta_section
     section_id: cta
     title: Let’s Work Together!
