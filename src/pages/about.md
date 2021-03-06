@@ -4,17 +4,16 @@ hide_title: true
 sections:
   - section_id: lorem-ipsum
     title: About TBD Labs
-    content: >-
-      ## Lorem ipsum
+    content: >
+      ### Inventing and Tinkering. 
 
 
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
+      It's a short list of hobbies but one driven by curiosity and a desire to
+      do things better.  
 
 
-      - Lorem ipsum
-
-      - dolor sit amet
+      We think big and wide. We drill down to each grain of detail. Turning the
+      problem over and over. ***Hacking our way to the better solution.*** 
     actions: []
     type: hero_section
   - section_id: lorem-ipsum
