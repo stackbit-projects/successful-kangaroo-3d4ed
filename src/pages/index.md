@@ -117,7 +117,7 @@ sections:
           so that you and your organization make the most of each opportunity.
         actions: []
         type: grid_item
-      - title: lorem-ipsum
+      - title: Getting to a Smart ROI
         subtitle: lorem-ipsum
         image_alt: lorem-ipsum
         content: >-
