@@ -52,7 +52,7 @@ sections:
         content: >
           ***Services***: Strategic Roadmap, Data Engineering, Pipeline
           Development
-      - image: images/logo-3.svg
+      - image: images/Billups Logo RGB 8.svg
         image_alt: Logo 3
       - image: images/logo-4.svg
         image_alt: Logo 4
