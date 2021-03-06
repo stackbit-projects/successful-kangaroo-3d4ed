@@ -58,7 +58,7 @@ sections:
         image_alt: billup logo
         title: billups
         subtitle: Scaling location data for meaningful understanding
-      - image: images/logo-5.svg
+      - image: images/magpie.jpg
         image_alt: Logo 5
   - type: grid_section
     section_id: services
