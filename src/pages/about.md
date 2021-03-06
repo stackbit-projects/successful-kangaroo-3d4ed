@@ -3,6 +3,21 @@ title: About TBD Labs
 hide_title: true
 sections:
   - section_id: lorem-ipsum
+    title: lorem-ipsum
+    content: >-
+      ## Lorem ipsum
+
+
+      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
+      eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
+
+      - Lorem ipsum
+
+      - dolor sit amet
+    actions: []
+    type: hero_section
+  - section_id: lorem-ipsum
     title: Getting Sh*T Done
     subtitle: >-
       Mastering data products and AI requires a balance of prioritization and
@@ -174,21 +189,6 @@ sections:
         image_alt: billup logo
         title: billups
         subtitle: Scaling location data for meaningful understanding
-  - section_id: lorem-ipsum
-    title: lorem-ipsum
-    content: >-
-      ## Lorem ipsum
-
-
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-      - Lorem ipsum
-
-      - dolor sit amet
-    actions: []
-    type: hero_section
 seo:
   title: ''
   description: ''
