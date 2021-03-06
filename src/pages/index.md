@@ -184,15 +184,17 @@ sections:
           possible.
         image_alt: lorem-ipsum
         content: >
-
-
-          ***It means looking beyond your data.***
+          ***It means looking beyond just your data.***
 
 
           We can help develop sustainable pipelines and provide insight into
           techniques of data combination beyond simple SQL. We can also help you
           scale the tools as your business grows so you never experience
           downtime.
+
+
+          We've managed projects with TB of data produced every day for
+          real-time logistical predictions. Scale and quality are a must.
         actions: []
         type: grid_item
     type: grid_section
