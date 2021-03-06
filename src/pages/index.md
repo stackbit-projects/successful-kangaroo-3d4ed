@@ -95,7 +95,7 @@ sections:
     bg_color: light
   - section_id: lorem-ipsum
     title: Getting Sh*T Done
-    subtitle: lorem-ipsum
+    subtitle: 'Mastering data products and AI '
     col_number: three
     grid_items: []
     type: grid_section
