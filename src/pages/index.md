@@ -85,7 +85,7 @@ sections:
     section_id: cta
     title: Let’s Work Together!
     content: |
-      Let's chat about your problem -- email <jms@tbdlabs.net>.  
+      Let's chat about your problem
     actions:
       - label: Let's start
         url: /contact
