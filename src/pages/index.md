@@ -25,14 +25,6 @@ sections:
       hands-on development to mentorship, we are here to provide your business
       with the data tools necessary to compete (realistically) with the
       mega-corporations hiring engineers by the dozens, if not 100s!
-  - type: portfolio_section
-    section_id: latest-projects
-    layout_style: tiles
-    title: Recent Work
-    subtitle: Explore case studies
-    projects_number: 6
-    view_all_label: View All
-    view_all_url: portfolio
   - type: grid_section
     section_id: clients
     title: Our Work
