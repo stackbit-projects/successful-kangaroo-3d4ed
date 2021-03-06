@@ -2,33 +2,6 @@
 title: About TBD Labs
 hide_title: true
 sections:
-  - type: grid_section
-    section_id: clients
-    title: Our Work
-    subtitle: >-
-      A few examples of the work we've done. From lay of the land to
-      full-service assembly.
-    col_number: three
-    grid_items:
-      - image_alt: Logo 1
-        image: images/parallel-lavender.png
-        title: Xmata
-        subtitle: >-
-          Bringing emotional understanding from text and images using AI and
-          visual reporting
-        content: |
-          ***Services***: Strategic Roadmap, Model Development, Maintenance
-      - image: images/vacasa.png
-        image_alt: Logo 2
-        title: Vacasa
-        subtitle: Helping make sense of the physical word.
-        content: >
-          ***Services***: Strategic Roadmap, Data Engineering, Pipeline
-          Development
-      - image: images/Billups Logo RGB 8.svg
-        image_alt: billup logo
-        title: billups
-        subtitle: Scaling location data for meaningful understanding
   - section_id: lorem-ipsum
     title: Getting Sh*T Done
     subtitle: >-
@@ -133,6 +106,33 @@ sections:
         actions: []
         type: grid_item
     type: grid_section
+  - type: grid_section
+    section_id: clients
+    title: Our Work
+    subtitle: >-
+      A few examples of the work we've done. From lay of the land to
+      full-service assembly.
+    col_number: three
+    grid_items:
+      - image_alt: Logo 1
+        image: images/parallel-lavender.png
+        title: Xmata
+        subtitle: >-
+          Bringing emotional understanding from text and images using AI and
+          visual reporting
+        content: |
+          ***Services***: Strategic Roadmap, Model Development, Maintenance
+      - image: images/vacasa.png
+        image_alt: Logo 2
+        title: Vacasa
+        subtitle: Helping make sense of the physical word.
+        content: >
+          ***Services***: Strategic Roadmap, Data Engineering, Pipeline
+          Development
+      - image: images/Billups Logo RGB 8.svg
+        image_alt: billup logo
+        title: billups
+        subtitle: Scaling location data for meaningful understanding
   - type: grid_section
     section_id: services
     title: Services
