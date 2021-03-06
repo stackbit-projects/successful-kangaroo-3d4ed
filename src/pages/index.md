@@ -101,7 +101,7 @@ sections:
     col_number: three
     grid_items:
       - title: Effective and Cost Approriate
-        subtitle: lorem-ipsum
+        subtitle: Throwing money at a problem won't solve it.
         image_alt: lorem-ipsum
         content: >
           > Many very large companies are expending tremendous capital rushing
