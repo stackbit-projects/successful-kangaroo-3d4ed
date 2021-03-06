@@ -79,7 +79,7 @@ sections:
         content: |
           *   Return on Investment (***in dollars and cents***)
           *   Model Maintence and Efficacy Verification
-          *   Data Inegrity Audits
+          *   Data Integrity Audits
           *   Data Visualization and Analysis
   - type: cta_section
     section_id: cta
