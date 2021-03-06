@@ -179,7 +179,9 @@ sections:
         actions: []
         type: grid_item
       - title: Data Quality and Scalability
-        subtitle: lorem-ipsum
+        subtitle: >-
+          We've managed projects with TB of data produced every day for
+          real-time logistical predictions. Scale and quality are a must.
         image_alt: lorem-ipsum
         content: >-
           ## Lorem ipsum
