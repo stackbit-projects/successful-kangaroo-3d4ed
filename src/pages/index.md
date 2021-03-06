@@ -159,9 +159,6 @@ sections:
         actions: []
         type: grid_item
       - title: Specification Design
-        subtitle: >-
-          Consistent results require deep strategic thinking and the tactical
-          know-how to execute.
         image_alt: lorem-ipsum
         content: >
           We aren't high-level, vague consultants charging to pontificate on the
