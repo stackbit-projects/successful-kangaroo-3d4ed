@@ -61,7 +61,7 @@ sections:
   - type: grid_section
     section_id: services
     title: Services
-    subtitle: 'We''re here to '
+    subtitle: We're here to be the bridge for your team
     col_number: three
     grid_items:
       - title: Strategic Planning
