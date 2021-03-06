@@ -81,7 +81,7 @@ sections:
           team will short-circuit the learning curve and level-up your org.
         actions: []
         type: grid_item
-      - title: Specification and Expectations
+      - title: Specifications and Expectations
         image_alt: lorem-ipsum
         content: >
           As engineers and product managers, we have the experience to produce a
