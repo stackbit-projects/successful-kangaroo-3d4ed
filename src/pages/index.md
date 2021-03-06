@@ -161,9 +161,12 @@ sections:
       - title: Specification Design
         image_alt: lorem-ipsum
         content: >
-          We aren't high-level, vague consultants charging to pontificate on the
-          market. We are highly experienced professionals who know how to get
-          sh\*t done.
+          Implementing high quality data products requires extensive forethought
+          and a dilligent attention to detail. As engineers and product
+          managers, we have the experience to produce a specification for your
+          team that is actionable and attainable. We understand cadence and
+          project sequencing -- two critical areas many companies fail when
+          attemping machine learning.
         actions: []
         type: grid_item
     type: grid_section
