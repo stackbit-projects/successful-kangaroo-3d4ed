@@ -180,8 +180,8 @@ sections:
         type: grid_item
       - title: Data Quality and Scalability
         subtitle: >-
-          We've managed projects with TB of data produced every day for
-          real-time logistical predictions. Scale and quality are a must.
+          Getting more from your data often means combining data nobody thought
+          possible.
         image_alt: lorem-ipsum
         content: >
 
