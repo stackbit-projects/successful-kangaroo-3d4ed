@@ -103,17 +103,18 @@ sections:
       - title: It's about being Effective and Cost Approriate
         subtitle: Throwing money at a problem won't solve it.
         image_alt: lorem-ipsum
-        content: >-
-          ## Lorem ipsum
+        content: >
+          Many very large companies are expending tremendous capital rushing
+          into data science and machine learning with little more than a vague
+          notion of how to use it. *This is an avoidable waste.*
 
 
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+          TBD Labs takes the time to understand your business, your customers
+          and your data to identify the projects apt for machine learning.
 
 
-          - Lorem ipsum
-
-          - dolor sit amet
+          We have the experience to know what is worth pursuing and what is not,
+          so that you and your organization make the most of each opportunity.
         actions: []
         type: grid_item
     type: grid_section
