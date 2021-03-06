@@ -43,7 +43,7 @@ sections:
         image: images/parallel-lavender.png
         title: Xmata
         subtitle: >-
-          Brining emotional understanding from AI text analysis: Development of
+          Brining emotional understanding from AI text analysis: Strategy
           Roadmap, Guidance and Execution.
       - image: images/vacasa.png
         image_alt: Logo 2
