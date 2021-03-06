@@ -164,7 +164,7 @@ sections:
           know-how to execute.
         image_alt: lorem-ipsum
         content: >
-          We aren't high-level, vague consultants charging to pontifcate on the
+          We aren't high-level, vague consultants charging to pontificate on the
           market. We are highly experienced professionals who know how to get
           sh\*t done.
         actions: []
