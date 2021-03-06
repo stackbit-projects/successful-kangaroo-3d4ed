@@ -158,7 +158,7 @@ sections:
           team will short-circuit the learning curve and level-up your org.
         actions: []
         type: grid_item
-      - title: 'Living Strategy, Tangible Tactics'
+      - title: Specification Design
         subtitle: >-
           Consistent results require deep strategic thinking and the tactical
           know-how to execute.
