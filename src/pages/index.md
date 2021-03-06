@@ -122,15 +122,15 @@ sections:
         image_alt: lorem-ipsum
         content: >
           TBD Labs always brings the problem back to the dollar cost to the
-          business. 
+          business.
 
 
-          We help define metrics for accurate and unbiased measurment of ROI. We
-          provide the structure and processes for assessing projects before
+          We help define metrics for accurate and unbiased measurement of ROI.
+          We provide the structure and processes for assessing projects before
           development begins as well as the tools for post-production ROI.
 
 
-          ### Our goal is 10x.
+          ***Our goal is 10x.***
 
 
           Be it dollars gained or hours optimized, our goal is a return of 10x
