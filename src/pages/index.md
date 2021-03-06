@@ -44,7 +44,7 @@ sections:
         title: Xmata
         subtitle: >-
           Brining emotional understanding from AI text analysis: Strategic
-          Roadmap, Model Development Execution.
+          Roadmap, Model Development, 
       - image: images/vacasa.png
         image_alt: Logo 2
       - image: images/logo-3.svg
