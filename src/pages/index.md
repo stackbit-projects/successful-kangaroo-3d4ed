@@ -82,13 +82,11 @@ sections:
           *   Review and Quality Assurance 
       - title: Measurement
         image: images/service-3.svg
-        content: |+
+        content: |
           *   Return on Investment (***in dollars and cents***)
           *   Model Maintence and Efficacy Verification
-          *   Data Inegrity Audits 
-
-
-
+          *   Data Inegrity Audits
+          *   Data Visualization and Analysis
   - type: cta_section
     section_id: cta
     title: Let’s Work Together!
