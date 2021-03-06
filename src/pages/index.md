@@ -169,7 +169,7 @@ sections:
         type: grid_item
         subtitle: >-
           Implementing high quality data products requires extensive forethought
-          and a dilligent attention to detail. 
+          and a diligent attention to detail. 
     type: grid_section
 template: advanced
 ---
