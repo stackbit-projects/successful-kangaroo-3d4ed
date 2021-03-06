@@ -16,10 +16,9 @@ sections:
       Salaries are up. Available talent is down.
 
 
-      \*\*Over the next 10 years, the gap between the companies who can execute
-      on machine learning and those who cannot will widen.\*\* Those with the
-      hard skills to create and build will be \*ever more rarified\* and
-      expensive.
+      **Over the next 10 years, the gap between the companies who can execute on
+      machine learning and those who cannot will widen.** Those with the hard
+      skills to create and build will be *ever more rarified* and expensive.
 
 
       TBD Labs helps your product and engineering team bridge this gap. From
