@@ -60,6 +60,7 @@ sections:
         subtitle: Scaling location data for meaningful understanding
       - image: images/magpie.jpg
         image_alt: Logo 5
+        title: Magpie
   - type: grid_section
     section_id: services
     title: Services
