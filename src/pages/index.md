@@ -158,7 +158,7 @@ sections:
           team will short-circuit the learning curve and level-up your org.
         actions: []
         type: grid_item
-      - title: lorem-ipsum
+      - title: 'Living Strategy, Tangible Tactics'
         subtitle: lorem-ipsum
         image_alt: lorem-ipsum
         content: >-
