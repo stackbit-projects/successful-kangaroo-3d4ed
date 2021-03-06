@@ -170,7 +170,7 @@ sections:
         subtitle: >-
           Implementing high quality data products requires extensive forethought
           and a diligent attention to detail. 
-      - title: lorem-ipsum
+      - title: Design and Model Maintenance
         subtitle: lorem-ipsum
         image_alt: lorem-ipsum
         content: >-
