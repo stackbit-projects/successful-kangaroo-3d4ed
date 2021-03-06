@@ -36,7 +36,9 @@ sections:
   - type: grid_section
     section_id: clients
     title: Clients
-    subtitle: A few of the companies we're proud to call partners
+    subtitle: >-
+      A few examples of the work we've done. From lay of the land to
+      full-service assembly.
     col_number: three
     grid_items:
       - image_alt: Logo 1
