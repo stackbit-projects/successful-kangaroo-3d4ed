@@ -48,7 +48,9 @@ sections:
       - image: images/vacasa.png
         image_alt: Logo 2
         title: Vacasa
-        subtitle: 'Helping make sense of the physical word: High scale '
+        subtitle: >-
+          Helping make sense of the physical word: Data Engineering, Pipeline
+          Deployment, 
       - image: images/logo-3.svg
         image_alt: Logo 3
       - image: images/logo-4.svg
