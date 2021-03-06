@@ -96,7 +96,7 @@ sections:
   - section_id: lorem-ipsum
     title: Getting Sh*T Done
     subtitle: lorem-ipsum
-    col_number: two
+    col_number: three
     grid_items: []
     type: grid_section
 template: advanced
