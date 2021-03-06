@@ -173,17 +173,9 @@ sections:
       - title: Design and Model Maintenance
         subtitle: A great solution today may not stand up to changing needs.
         image_alt: lorem-ipsum
-        content: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+        content: >
+          TBD Labs can help your team develop protocols and the technical
+          know-how to keep your systems accurate as markets evolve. 
         actions: []
         type: grid_item
     type: grid_section
