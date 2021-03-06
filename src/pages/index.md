@@ -66,14 +66,12 @@ sections:
     grid_items:
       - title: Strategic Planning
         image: images/service-1.svg
-        content: |-
-          - Research and insight
-          - Business innovation and transformation
-          - Brand and strategy
-          - Brand portfolio strategy
-          - Design strategy
-          - Digital and experience strategy
-          - Communication strategy
+        content: |
+          *   Business Process Understanding
+          *   Data Maturity Assessment
+          *   Data Opportunity Identification
+          *   Roadmap Development
+          *   Success and ROI Metric Development 
       - title: Tactical Execution
         image: images/service-2.svg
         content: |-
