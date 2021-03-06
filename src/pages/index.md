@@ -42,7 +42,9 @@ sections:
       - image_alt: Logo 1
         image: images/parallel-lavender.png
         title: Xmata
-        subtitle: 'Development of Roadmap, Guidance and Execution.'
+        subtitle: >-
+          Brining Emotional understanding to Development of Roadmap, Guidance
+          and Execution.
       - image: images/vacasa.png
         image_alt: Logo 2
       - image: images/logo-3.svg
