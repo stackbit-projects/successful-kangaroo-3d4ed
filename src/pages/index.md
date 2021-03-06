@@ -101,7 +101,7 @@ sections:
     col_number: three
     grid_items:
       - title: It's about being Effective and Cost Approriate
-        subtitle: lorem-ipsum
+        subtitle: Throwing money at a problem won't solve it.
         image_alt: lorem-ipsum
         content: >-
           ## Lorem ipsum
