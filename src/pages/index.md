@@ -184,11 +184,9 @@ sections:
           real-time logistical predictions. Scale and quality are a must.
         image_alt: lorem-ipsum
         content: >
-          Getting more from your data often means combining data nobody thought
-          possible. 
 
 
-          ***It means looking beyond your data.***  
+          ***It means looking beyond your data.***
 
 
           We can help develop sustainable pipelines and provide insight into
