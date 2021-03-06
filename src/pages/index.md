@@ -55,7 +55,7 @@ sections:
       - image: images/Billups Logo RGB 8.svg
         image_alt: Logo 3
         title: billups
-        subtitle: Scaling location data
+        subtitle: Scaling location data for meaningful understanding
       - image: images/logo-4.svg
         image_alt: Logo 4
       - image: images/logo-5.svg
