@@ -100,7 +100,7 @@ sections:
       expertise.
     col_number: three
     grid_items:
-      - title: It's about being Effective and Cost Approriate
+      - title: It's about a relentless focus on being effective
         subtitle: Throwing money at a problem won't solve it.
         image_alt: lorem-ipsum
         content: >
