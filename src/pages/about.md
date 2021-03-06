@@ -1,5 +1,5 @@
 ---
-title: Home
+title: About TBD Labs
 hide_title: true
 sections:
   - type: hero_section
