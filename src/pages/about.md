@@ -3,7 +3,7 @@ title: About TBD Labs
 hide_title: true
 sections:
   - section_id: lorem-ipsum
-    title: lorem-ipsum
+    title: About TBD Labs
     content: >-
       ## Lorem ipsum
 
