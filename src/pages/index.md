@@ -141,17 +141,21 @@ sections:
       - title: Cooperation and Collaboration
         subtitle: Becoming a bridge for your team.
         image_alt: lorem-ipsum
-        content: >-
-          ## Lorem ipsum
+        content: >
+          If you are struggling now to bring on engineering and product talent
+          who can execute on the toughest problems, you are not alone.
 
 
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+          TBD Labs doesn't just build it and toss it over the fence. 
 
 
-          - Lorem ipsum
+          We will work with your engineers and product stakeholders, coaching
+          them on what to expect, with a a constant eye on best practices and
+          scalability.
 
-          - dolor sit amet
+
+          From UX designers to devOps to removing social bias in models, our
+          team will short-circuit the learning curve and level-up your org.
         actions: []
         type: grid_item
     type: grid_section
