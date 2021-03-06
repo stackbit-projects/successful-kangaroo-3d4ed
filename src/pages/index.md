@@ -118,7 +118,7 @@ sections:
         actions: []
         type: grid_item
       - title: Getting to a Smart ROI
-        subtitle: lorem-ipsum
+        subtitle: 'Hype, hype, hype. We''re sick of it too.'
         image_alt: lorem-ipsum
         content: >-
           ## Lorem ipsum
