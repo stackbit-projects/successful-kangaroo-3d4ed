@@ -39,7 +39,7 @@ sections:
     subtitle: A few of the companies we're proud to call partners
     col_number: three
     grid_items:
-      - image: images/logo-1.svg
+      - image: images/xmata_pink_white_sm.png
         image_alt: Logo 1
       - image: images/logo-2.svg
         image_alt: Logo 2
