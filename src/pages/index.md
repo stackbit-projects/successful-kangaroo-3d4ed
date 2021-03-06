@@ -159,7 +159,9 @@ sections:
         actions: []
         type: grid_item
       - title: 'Living Strategy, Tangible Tactics'
-        subtitle: lorem-ipsum
+        subtitle: >-
+          Consistent results require deep strategic thinking and the tactical
+          know-how to execute.
         image_alt: lorem-ipsum
         content: >-
           ## Lorem ipsum
