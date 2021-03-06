@@ -183,17 +183,18 @@ sections:
           We've managed projects with TB of data produced every day for
           real-time logistical predictions. Scale and quality are a must.
         image_alt: lorem-ipsum
-        content: >-
-          ## Lorem ipsum
+        content: >
+          Getting more from your data often means combining data nobody thought
+          possible. 
 
 
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+          ***It means looking beyond your data.***  
 
 
-          - Lorem ipsum
-
-          - dolor sit amet
+          We can help develop sustainable pipelines and provide insight into
+          techniques of data combination beyond simple SQL. We can also help you
+          scale the tools as your business grows so you never experience
+          downtime.
         actions: []
         type: grid_item
     type: grid_section
