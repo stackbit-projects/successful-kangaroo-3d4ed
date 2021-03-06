@@ -41,6 +41,7 @@ sections:
     grid_items:
       - image_alt: Logo 1
         image: images/parallel-lavender.png
+        title: Xmata
       - image: images/vacasa.png
         image_alt: Logo 2
       - image: images/logo-3.svg
