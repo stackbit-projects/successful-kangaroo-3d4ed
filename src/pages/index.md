@@ -139,7 +139,7 @@ sections:
         actions: []
         type: grid_item
       - title: Cooperation and Collaboration
-        subtitle: lorem-ipsum
+        subtitle: Becoming a bridge for your team.
         image_alt: lorem-ipsum
         content: >-
           ## Lorem ipsum
