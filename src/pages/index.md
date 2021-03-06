@@ -25,30 +25,6 @@ sections:
       hands-on development to mentorship, we are here to provide your business
       with the data tools necessary to compete (realistically) with the
       mega-corporations hiring engineers by the dozens, if not 100s!
-  - type: portfolio_section
-    section_id: latest-projects
-    layout_style: tiles
-    title: Recent Work
-    subtitle: Explore case studies
-    projects_number: 6
-    view_all_label: View All
-    view_all_url: portfolio
-  - type: grid_section
-    section_id: clients
-    title: Clients
-    subtitle: A few of the companies we're proud to call partners
-    col_number: three
-    grid_items:
-      - image: images/logo-1.svg
-        image_alt: Logo 1
-      - image: images/logo-2.svg
-        image_alt: Logo 2
-      - image: images/logo-3.svg
-        image_alt: Logo 3
-      - image: images/logo-4.svg
-        image_alt: Logo 4
-      - image: images/logo-5.svg
-        image_alt: Logo 5
   - type: grid_section
     section_id: services
     title: Services
@@ -86,6 +62,30 @@ sections:
           - Communication design
           - Social media
           - Product design
+  - type: portfolio_section
+    section_id: latest-projects
+    layout_style: tiles
+    title: Recent Work
+    subtitle: Explore case studies
+    projects_number: 6
+    view_all_label: View All
+    view_all_url: portfolio
+  - type: grid_section
+    section_id: clients
+    title: Clients
+    subtitle: A few of the companies we're proud to call partners
+    col_number: three
+    grid_items:
+      - image: images/logo-1.svg
+        image_alt: Logo 1
+      - image: images/logo-2.svg
+        image_alt: Logo 2
+      - image: images/logo-3.svg
+        image_alt: Logo 3
+      - image: images/logo-4.svg
+        image_alt: Logo 4
+      - image: images/logo-5.svg
+        image_alt: Logo 5
   - type: cta_section
     section_id: cta
     title: Let’s Work Together!
