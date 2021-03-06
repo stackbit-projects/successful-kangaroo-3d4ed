@@ -97,7 +97,7 @@ sections:
     title: Getting Sh*T Done
     subtitle: >-
       Mastering data products and AI requires a balance of prioritization and
-      expertise
+      expertise.
     col_number: three
     grid_items: []
     type: grid_section
