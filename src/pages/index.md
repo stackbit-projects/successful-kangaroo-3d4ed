@@ -163,17 +163,10 @@ sections:
           Consistent results require deep strategic thinking and the tactical
           know-how to execute.
         image_alt: lorem-ipsum
-        content: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+        content: >
+          We aren't high-level, vague consultants charging to pontifcate on the
+          market. We are highly experienced professionals who know how to get
+          sh\*t done.
         actions: []
         type: grid_item
     type: grid_section
