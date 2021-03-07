@@ -48,7 +48,7 @@ sections:
         content: >
           ***Services***: Strategic Roadmap, Data Engineering, Pipeline
           Development
-      - image: images/Billups Logo RGB 8.svg
+      - image: images/billups.png
         image_alt: billup logo
         title: billups
         subtitle: Scaling location data for meaningful understanding
