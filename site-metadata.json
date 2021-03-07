@@ -4,7 +4,7 @@
     "base_font": "fraunces",
     "header": {
         "title": "TBD Labs",
-        "logo": "images/cta-about.svg",
+        "logo": "images/tbdlabs.png",
         "logo_alt": "TBD Labs, The Determined in your TBD",
         "has_nav": true,
         "nav_links": [
