@@ -170,7 +170,7 @@ sections:
     col_number: three
     grid_items:
       - image_alt: Logo 1
-        image: images/parallel-lavender.png
+        image: images/xmata_pink_black_sm.png
         title: Xmata
         subtitle: >-
           Bringing emotional understanding from text and images using AI and
