@@ -22,7 +22,8 @@
                 "url": "/contact/",
                 "style": "button"
             }
-        ]
+        ],
+        "logo": "images/marvelous-zebra.png"
     },
     "title": "TBD Labs",
     "domain": "https://successful-kangaroo-3d4ed.netlify.app"
