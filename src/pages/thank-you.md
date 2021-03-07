@@ -1,5 +1,4 @@
 ---
-title: Thank You!
 hide_title: false
 sections:
   - type: hero_section
